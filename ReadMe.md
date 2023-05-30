@@ -1,6 +1,7 @@
 # 💫 About Me:
  I am a goal-driven and ambitious tech startup founder who is currently looking for job opportunities on the side. I have a strong background in Front-End Developer and have experience working on various projects. I am seeking job opportunities to enhance my skills and contribute to meaningful projects. Feel free to reach out to me at christopher.swiftlybox@gmail.com if you are interested in collaborating or have any job opportunities.
-
+https://github.com/SwiftlyBox
+https://github.com/foundertx
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christophermusamakombe/) 
